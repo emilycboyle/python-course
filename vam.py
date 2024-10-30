@@ -1,4 +1,4 @@
-# A file containing Buffy themed Python challenges for Halloween
+# A file containing Buffy themed Python challenges for Halloween 2024.
 
 # How many people will the vampires kill?
 
